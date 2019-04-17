@@ -2,5 +2,5 @@
 
 wozaibendizijidefenzhijinxin
 
-我在远程仓库上进行了修改
+我在本地仓库上进行了修改
 
